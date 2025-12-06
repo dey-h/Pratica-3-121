@@ -6,7 +6,11 @@ public class Operador {
         this.idOperador = idOperador;
         this.nombre = nombre;
     }
-
-    public int getIdOperador() { return idOperador; }
-    public String getNombre() { return nombre; }
+    public int getIdOperador() { 
+        return idOperador; 
+    }
+    public String getNombre() { 
+        return nombre; 
+    }
 }
+
