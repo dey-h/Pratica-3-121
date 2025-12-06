@@ -13,13 +13,19 @@ public class Estudiante{
         this.edad=edad;
     }
     public int getRu() {
-         return ru; }
+         return ru; 
+    }
     public String getNombre() {
-         return nombre; }
+         return nombre; 
+    }
     public String getPaterno() {
-         return paterno; }
+         return paterno; 
+    }
     public String getMaterno() {
-         return materno; }
+         return materno; 
+    }
     public int getEdad() {
-         return edad; }
+         return edad; 
+    }
+
 }
