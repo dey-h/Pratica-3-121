@@ -9,11 +9,16 @@ public class Trabajador{
         this.salario=salario;
     }
     public String getNombre() {
-         return nombre; }
+         return nombre; 
+    }
     public int getCarnet() {
-         return carnet; }
+         return carnet; 
+    }
     public double getSalario() { 
-        return salario; }
+        return salario; 
+    }
     public void setSalario(double salario) {
-         this.salario = salario; }
+         this.salario = salario; 
+    }
+
 }
