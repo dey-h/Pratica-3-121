@@ -9,9 +9,13 @@ public class Producto {
         this.precio=precio;
     }
     public int getCodigo() {
-         return codigo; }
+         return codigo; 
+    }
     public String getNombre() {
-         return nombre; }
+         return nombre; 
+    }
     public float getPrecio() {
-         return precio; }
+         return precio; 
+    }
+
 }
