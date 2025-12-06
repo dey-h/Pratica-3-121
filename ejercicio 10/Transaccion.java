@@ -8,7 +8,14 @@ public class Transaccion {
         this.monto = monto;
         this.fecha = fecha;
     }
-    public int getId() { return id; }
-    public double getMonto() { return monto; }
-    public String getFecha() { return fecha; }
+    public int getId() { 
+        return id; 
+    }
+    public double getMonto() { 
+        return monto; 
+    }
+    public String getFecha() { 
+        return fecha; 
+    }
 }
+
